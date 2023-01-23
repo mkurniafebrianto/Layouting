@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">LayoutingCH4</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="chat">Chat</string>
+    <string name="status">Status</string>
+    <string name="calls">Calls</string>
+    <string name="kurnia_febrianto">M Kurnia Febrianto</string>
+    <string name="email">mkurniafebrianto@gmail.com</string>
+    <string name="nama_user">M Kurnia Febrianto</string>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+        <item>@drawable/ic_account_circle</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>Ahmad</item>
+        <item>Budi</item>
+        <item>Susilo</item>
+        <item>Rafi</item>
+        <item>Akbar</item>
+        <item>Fatur</item>
+        <item>Difa</item>
+        <item>Faiz</item>
+        <item>Pati</item>
+        <item>Joko</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+        <item>Sip Mantab!</item>
+    </string-array>
+
+
+</resources>
